@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "三葉のテーマ",
+  "base_artist": "Radwimps",
+  "createdAt": "2026-02-14T05:32:04.178941Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "三葉のテーマ",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_三葉のテーマ_RADWIMPS.txt"
+    }
+  ]
+}
